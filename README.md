@@ -4,3 +4,9 @@
 ```javascript
 yarn dev:decorator
 ```
+
+- Observer
+```javascript
+yarn dev:observer
+```
+
