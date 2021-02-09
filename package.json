@@ -2,6 +2,7 @@
   "license": "MIT",
   "scripts": {
     "dev:decorator": "nodemon --exec ts-node src/decorator/index.ts",
+    "dev:observer": "nodemon --exec ts-node src/observer/index.ts",
     "build": "rimraf ./build && tsc",
     "start": "yarn build && node build/index.js"
   },
